@@ -1,0 +1,4 @@
+esta es una prueba
+codigo  producto
+12	pantalon azul
+17	falda blanca
