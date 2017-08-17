@@ -5,3 +5,6 @@ vestido 	verde 	230
 conjunto 	rosa 	550
 pantalon	azul 	250
 falda	  	roja 	456
+
+
+Nota: todos estos precios estan a disposicion de cambios.
