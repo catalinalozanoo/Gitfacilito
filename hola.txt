@@ -1,4 +1,4 @@
 esta es una prueba
 codigo  producto
 12	pantalon azul
-34      pantalon twiter
+34      pantalon de galaxias
