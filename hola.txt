@@ -2,3 +2,4 @@ esta es una prueba
 codigo  producto
 12	pantalon azul
 34      pantalon de galaxias
+56	falda de paisajes
