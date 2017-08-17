@@ -1,5 +1,7 @@
-precios de ropa a cliente
-vestido verde 230
-conjunto rosa mujer 550
-pantalo azul rey  250
-faldas  rojas 456
+&&&&&& precios de ropa a cliente &&&&&& 
+
+producto	color	precio 
+vestido 	verde 	230
+conjunto 	rosa 	550
+pantalon	azul 	250
+falda	  	roja 	456
